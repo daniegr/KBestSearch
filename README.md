@@ -20,7 +20,7 @@ After adjusting the search space and *trainval* method in accordance with your n
 
 ## Acknowledgment
 
-The research is performed as a collaboration between the [Department of Neuromedicine and Movement Science](https://www.ntnu.edu/inb) and the [Department of Computer Science](https://www.ntnu.edu/idi) at the [Norwegian University of Science and Technology](https://www.ntnu.edu/). 
+The research is performed as a collaboration between [Department of Neuromedicine and Movement Science](https://www.ntnu.edu/inb) and [Department of Computer Science](https://www.ntnu.edu/idi) at the [Norwegian University of Science and Technology](https://www.ntnu.edu/) and [Norwegian Open AI Lab](https://www.ntnu.edu/ailab). 
 
 ## Citation
 
@@ -36,4 +36,4 @@ In case you found this work helpful in your research, we would appreciate that y
 
 ## Relevant resources
 
-- *K*-Best Search for prediction of cerebral palsy from infant spontaneous movements with graph convolutional networks: [Development and Validation of a Deep Learning Method to Predict Cerebral Palsy From Spontaneous Movements in Infants at High Risk](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2794119), [Fully automated clinical movement analysis from videos using skeleton-based deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0966636221003465)
+- *K*-Best Search for prediction of cerebral palsy from infant spontaneous movements with graph convolutional networks: ["Development and Validation of a Deep Learning Method to Predict Cerebral Palsy From Spontaneous Movements in Infants at High Risk" (Groos et al., 2022)](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2794119) and ["Fully automated clinical movement analysis from videos using skeleton-based deep learning" (Groos et al., 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0966636221003465).
